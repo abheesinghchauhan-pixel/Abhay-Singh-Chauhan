@@ -94,8 +94,7 @@ Completed a beginner-level challenge on **HackerRank** — the *Solve Me First* 
 **Part B – Google Workspace Collaboration:**
 Created a **Digital Literacy Awareness Quiz** using Google Forms with 5 questions (multiple choice and short answer) covering password safety, phishing, digital footprint, and misinformation.
 
- **Quiz Link:** [Click here to take the Digital Literacy Quiz](#) *(replace with your actual form link)*
-
+ **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSfuma3JyXbOBhYUEAE9QurOMr22efFHTEeOL_rbWs2Rv2uFvQ/viewform?usp=publish-editor
  Files: `task-3-platforms/`
 
 ---
